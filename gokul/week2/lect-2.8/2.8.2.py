@@ -3,3 +3,9 @@
 
 
 # HINT : subtract current year from YOB
+yob=int(input())
+age=2026-yob
+if age>=18:
+    print("yes")
+else:
+    print("no")

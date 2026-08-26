@@ -2,3 +2,4 @@
 #     ```
 #     name="gokul"
 #     ```
+# name is the variable and gokul is literal

@@ -1,5 +1,7 @@
 ## write a python code , for the following test cases
-
+alpha ="abcdefghijklmnopqrstuvwxyz"
+i=str(input())
+print(alpha[i+1])
 # testcase 1
 '''
 INPUT: 'a'

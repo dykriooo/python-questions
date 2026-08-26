@@ -2,3 +2,5 @@
 #     ```
 #     hello, Gokul , How are you?
 #     ```
+a=str(input())
+print("hello,",a,"how are you")

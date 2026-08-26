@@ -2,6 +2,6 @@
 
 x="      python        ."
 
-print(x.lstrip())
-print(x.rstrip())
-print(x.strip())
+print(x.lstrip()) #python        .
+print(x.rstrip())        # python.
+print(x.strip())#python 

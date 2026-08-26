@@ -15,3 +15,9 @@ if marks<60:
 else:
     print("none")
 
+a
+b
+c
+d
+e
+none 

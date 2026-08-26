@@ -3,3 +3,4 @@
 #     x=false
 #     print(type(x))
 #     ```
+# boolean

@@ -6,7 +6,11 @@
 INPUT: 90000
 OUTPUT: 'not eligible'
 '''
-
+inp=int(input())
+if inp >= 9000:
+    print("true")
+else :
+    print("false")
 # TestCase 2
 '''
 INPUT: 120000

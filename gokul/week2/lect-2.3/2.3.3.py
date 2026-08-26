@@ -6,3 +6,8 @@
 #     n=n/2
 #     print(type(n))
 #     print(n)
+int
+10
+5
+int 
+10

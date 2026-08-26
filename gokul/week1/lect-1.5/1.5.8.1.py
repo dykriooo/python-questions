@@ -7,5 +7,3 @@ place="sathy"
         # x=f"{name} is a boy
 
 # gokul of age 25 is from sathy
-
-

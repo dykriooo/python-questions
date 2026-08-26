@@ -9,3 +9,5 @@ print(25/10)
 print(c)
 print(d)
 #     ```
+2
+2.5

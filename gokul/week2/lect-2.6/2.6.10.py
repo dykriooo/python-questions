@@ -4,6 +4,6 @@
 
 x="python is a programming language. python is easy to learn.I love pykkara false"
 
-print(x.index("python",10))
-print(x.index("python",0,10))
-print(x.index("python",10,20))
+print(x.index("python",10)) 34
+print(x.index("python",0,10)) 0
+print(x.index("python",10,20)) substring not found 

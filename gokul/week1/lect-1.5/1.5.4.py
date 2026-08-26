@@ -3,3 +3,5 @@
 #     n=input()
 #     n=int(input())
 #     ```
+# int(input()) specifies data type to integers 
+# and input doesnt 
