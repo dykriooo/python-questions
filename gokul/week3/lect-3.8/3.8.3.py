@@ -16,3 +16,9 @@ print('-------------------')
 
 
 '''
+# odd numbers upto 10
+# i 4 7 10
+# 9 to 0
+
+# odd numbers from 9 to 1
+

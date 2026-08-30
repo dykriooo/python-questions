@@ -1,4 +1,5 @@
-# write a code to find whether the given number is prime or not
+# ![alt text](image.png)'
+n=int(input("enter:"))
 num = int(input("Enter a number: "))
 if (num >= 2 ):
     print(2,end=' ')
@@ -11,7 +12,13 @@ if (num >= 2 ):
                 break
             else :
                 flag =True 
+    
+    if (flag):
+        print(i,end='')
+
+
+
+
 
 
     
-

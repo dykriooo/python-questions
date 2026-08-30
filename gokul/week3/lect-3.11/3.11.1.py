@@ -19,3 +19,15 @@ input="abcd"
 3 2 d c
 3 3 d d
 '''
+# inp = "abcd"
+
+# for i in range(len(inp)):
+#     for j in range(len(inp)):
+#         print(i, j, inp[i], inp[j])
+
+
+s="VIBGYOR"
+
+for i in range (7):
+     for j in range (7): 
+        print (s[i], s[j])

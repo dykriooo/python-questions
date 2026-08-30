@@ -5,3 +5,4 @@ l.remove(12)
 print(l)
 l.remove(3)
 print(l)
+# [1,4,3,4]

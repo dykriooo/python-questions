@@ -10,3 +10,7 @@
 n=-123456
 m=abs(n)
 print(str(m)==str(m)[::-1])
+
+false 
+false 
+false 
