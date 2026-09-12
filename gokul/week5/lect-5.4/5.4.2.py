@@ -9,3 +9,14 @@ output:
 [[25,10,24],[55,25,57],[85,40,90]]
 
 '''
+# def dotproduct (u,v):
+#     dim=len(u)
+#     ans=0
+#     for i in range (dim):
+#         ans=ans+(u[i]+v[i])
+#     return ans 
+# print()
+
+def matmul(a,b):
+    dim=len(A)
+    # c= 

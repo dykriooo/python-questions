@@ -9,3 +9,4 @@ class A:
 
 obj=A(10)
 obj.disp()
+

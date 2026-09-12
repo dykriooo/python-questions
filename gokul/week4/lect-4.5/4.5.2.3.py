@@ -2,7 +2,7 @@
 
 l=[1,5,2,9,3,6]
 m=[9,2,1,7,3,0]
-sorted(l)
-print(l)
+# sorted(l) is not in place i.e. 
+print(sorted(l))
 m.sort()
 print(m)
